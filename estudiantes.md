@@ -7,6 +7,8 @@ Jeremy Vargas
 -estudiantes
 Adrian Alva Tiznado (Porfa ya demne trabajo)
 JUAN PEREZ
+Martin Mcflay
+Manuel Mitacc
 Martin Mcflyy
 Carlos David Quintero Jimenez
 Axel D. Zalazar
