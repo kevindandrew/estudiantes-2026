@@ -9,4 +9,5 @@ JUAN PEREZ
 Martin Mcflay
 David Gerardo Nuñez Rojas
 Jared Linares
-
+Neils Alanoca
+Jared Linares
