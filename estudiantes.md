@@ -5,4 +5,4 @@ Kevin Rodriguez
 Jose Pelico
 Jeremy Vargas
 -estudiantes
-Adrian Alva Tiznado
+Adrian Alva Tiznado (Porfa ya demne trabajo)
