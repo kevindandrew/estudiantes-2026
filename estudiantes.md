@@ -1,6 +1,6 @@
 --PROFESORES
 Belen Segales
-Kevin Rodriguez
+Kevin Rodriguez Calderon
 --controllers
 Jose Pelico
 Jeremy Vargas
