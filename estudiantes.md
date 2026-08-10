@@ -9,3 +9,6 @@ Adrian Alva Tiznado (Porfa ya denme trabajo)
 JUAN PEREZ
 Martin Mcflay
 Jared Linares
+Yair Flores
+Neils Alanoca
+Jared Linares
