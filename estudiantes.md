@@ -1,6 +1,6 @@
 --PROFESORES
 Belen Segales
-Kevin Rodriguez
+Kevin Rodriguez Calderon
 --controllers
 Jose Pelico
 Jeremy Vargas
@@ -8,3 +8,4 @@ Jeremy Vargas
 Adrian Alva Tiznado (Porfa ya denme trabajo)
 JUAN PEREZ
 Martin Mcflay
+Jared Linares
