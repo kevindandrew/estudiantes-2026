@@ -8,6 +8,7 @@ Jeremy Vargas
 Adrian Alva Tiznado (Porfa ya demne trabajo)
 JUAN PEREZ
 Martin Mcflay
+Ademir_gomez
 Manuel Mitacc
 Martin Mcflyy
 Carlos David Quintero Jimenez
