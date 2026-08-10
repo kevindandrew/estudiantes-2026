@@ -7,7 +7,8 @@ Jeremy Vargas
 -estudiantes
 JUAN PEREZ
 Martin Mcflay
-David Gerardo Nuñez Rojas
 Jared Linares
+Yair Flores
 Neils Alanoca
 Jared Linares
+David Gerardo Nuñez Rojas
