@@ -1,11 +1,12 @@
 --PROFESORES
 Belen Segales
-Kevin Rodriguez
+Kevin Rodriguez Calderon
 --controllers
 Jose Pelico
 Jeremy Vargas
 -estudiantes
 JUAN PEREZ
 Martin Mcflay
+Cristian_Claudio
+Jared Linares
 
-Cristian Claudio
