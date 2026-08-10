@@ -1,10 +1,15 @@
 --PROFESORES
 Belen Segales
-Kevin Rodriguez
+Kevin Rodriguez Calderon
 --controllers
 Jose Pelico
 Jeremy Vargas
 -estudiantes
 JUAN PEREZ
-Martin Mcflay
+Martin Mcflyy
 Carlos David Quintero Jimenez
+Axel D. Zalazar
+Yair Flores
+Neils Alanoca
+Jared Linares
+Harold Barraza
