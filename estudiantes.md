@@ -11,3 +11,4 @@ Axel D. Zalazar
 Yair Flores
 Neils Alanoca
 Jared Linares
+Harold Barraza
