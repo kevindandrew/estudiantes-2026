@@ -6,7 +6,8 @@ Jose Pelico
 Jeremy Vargas
 -estudiantes
 JUAN PEREZ
-Martin Mcflay
+Martin Mcflyy
+Carlos David Quintero Jimenez
 Axel D. Zalazar
 Yair Flores
 Neils Alanoca
