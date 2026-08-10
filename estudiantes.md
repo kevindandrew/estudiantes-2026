@@ -8,6 +8,7 @@ Jeremy Vargas
 Adrian Alva Tiznado (Porfa ya demne trabajo)
 JUAN PEREZ
 Martin Mcflay
+Gi Montania
 Manuel Mitacc
 Martin Mcflyy
 Carlos David Quintero Jimenez
@@ -22,3 +23,4 @@ Cristian_Claudio
 Jared Linares
 Cristian_Claudio
 Felipe Arroyo
+adan benjamin cotaña monasterio (esta es la buena?)
