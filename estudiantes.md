@@ -1,6 +1,6 @@
 --PROFESORES
 Belen Segales
-Kevin Rodriguez
+Kevin Rodriguez Calderon
 --controllers
 Jose Pelico
 Jeremy Vargas
@@ -8,3 +8,9 @@ Jeremy Vargas
 JUAN PEREZ
 Martin Mcflay
 Felipe Arroyo
+Axel D. Zalazar
+Yair Flores
+Neils Alanoca
+Jared Linares
+Harold Barraza
+
