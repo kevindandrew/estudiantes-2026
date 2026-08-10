@@ -7,6 +7,7 @@ Jeremy Vargas
 -estudiantes
 JUAN PEREZ
 Martin Mcflay
+Axel D. Zalazar
 Yair Flores
 Neils Alanoca
 Jared Linares
