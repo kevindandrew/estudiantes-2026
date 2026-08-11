@@ -24,3 +24,4 @@ Jared Linares
 Cristian_Claudio
 Felipe Arroyo
 adan benjamin cotaña monasterio (esta es la buena?)
+Pamela Sessa
